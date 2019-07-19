@@ -1,5 +1,5 @@
 import React from 'react'
-import { Grid, GridColumn } from 'semantic-ui-react';
+import { Grid } from 'semantic-ui-react';
 import SettingsNav from './SettingsNav';
 import { Route, Redirect, Switch } from 'react-router';
 import BasicPage from './BasicPage';
